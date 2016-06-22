@@ -3,12 +3,12 @@ Basic 2D car racing game for android platform using Unity game engine.
 <br>
 <br>
 <h3>How to use</h3>
-1. Download assets.zip and extract.
-2. Create a unity project.
-3. Copy extracted assets folder inside your unity project folder.
+1. Download 2d racing game.zip and extract.
+2. Open unity.
+3. Import extracted project into unity.
 4. Enjoy :)
-<br>
-<br>
+<br/>
+<br/>
 <h3>How to play</h3>
 1. Download the speedracing.apk file.
 2. Copy the file to your android smartphone.
