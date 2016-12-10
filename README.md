@@ -14,4 +14,4 @@ Basic 2D car racing game for android platform built using Unity game engine.
 
 <br>
 
-**Note**: The game is currently not available at Google Play Store
+**Note**: The game is currently not available at Google Play Store.
