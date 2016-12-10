@@ -1,5 +1,5 @@
-# 2D-Car-Racing-Game-Unity
-Basic 2D car racing game for android platform using Unity game engine.
+# 2D Car Racing Game
+Basic 2D car racing game for android platform built using Unity game engine.
 <br>
 <br>
 <h3>How to use</h3>
